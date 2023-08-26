@@ -40,3 +40,15 @@ If there is a mismatch in object detection between the sensors, a decision has t
 
 ### 4. Can you think of ways to improve your tracking results in the future?
 We can use other sensors attached to the car, to have a 360 field of view.
+
+#### RMSE for Step 1:
+![RMSE1](img/RMSE_Step_1.png)
+
+#### RMSE for Step 2:
+![RMSE2](img/RMSE_Step_2.png)
+
+#### RMSE for Step 3:
+![RMSE3](img/RMSE_Step_3.png)
+
+#### RMSE for Step 4:
+![RMSE4](img/RMSE_Step_4.png)
